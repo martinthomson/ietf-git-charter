@@ -11,10 +11,12 @@ and others.
 The GitHub Integration and Tooling (GIT) working group will select a set of such
 practices and document policies that support those practices.  The policies will
 each detail how work is conducted by working groups that opt to follow the work
-practice.  Whether working groups choose to use GitHub to support their work
-will remain entirely at their discretion.  The goal is to provide both process
-and tooling support for working groups that choose to adopt the documented
-practices.
+practice.  The goal is to provide both process and tooling support for working
+groups that choose to adopt the documented practices.
+
+The documents will not alter the Internet Standards Process (BCP 9), they will
+describe how to work within it.  Whether working groups choose to use GitHub to
+support their work will remain entirely at their discretion.
 
 The working group may also discuss tooling requirements in support of GitHub
 use. Decisions about implementing specific tooling needs will be undertaken in
