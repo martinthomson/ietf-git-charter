@@ -22,4 +22,4 @@ consultation with the IETF Tools Team and other interested contributors.
 
 Milestones:
 
-Work practice description and policy document(s) sent to IESG - Aug 2019
+Work practice description and policy document(s) sent to IESG for publication as BCP - Aug 2019
