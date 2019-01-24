@@ -15,8 +15,9 @@ practice.  The goal is to provide both process and tooling support for working
 groups that choose to adopt the practices.
 
 The documents will not alter the Internet Standards Process (BCP 9), they will
-describe how to work within it.  Whether working groups choose to use GitHub to
-support their work will remain entirely at their discretion.
+describe how to work within it.  Whether working groups choose to use GitHub or
+the documented policies to support their work will remain entirely at their
+discretion.
 
 The working group may also discuss tooling requirements in support of GitHub
 use. Decisions about implementing specific tooling needs will be undertaken by
