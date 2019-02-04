@@ -14,6 +14,8 @@ each detail how work is conducted by working groups that opt to follow the work
 practice.  The goal is to provide both process and tooling support for working
 groups that choose to adopt the practices.
 
+The documents produced by this group may apply to services similar to GitHub. However, documenting generalized policies that are designed to apply to multiple services or policies specific to services besides GitHub are out of scope for this working group. Pursuing such work requires a re-charter. 
+
 The documents will not alter the Internet Standards Process (BCP 9), they will
 describe how to work within it.  Whether working groups choose to use GitHub or
 the documented policies to support their work will remain entirely at their
